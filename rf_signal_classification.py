@@ -66,7 +66,7 @@ CLASSES = ["bpsk", "16qam", "ofdm-64"]
 #     "2msk", "4msk", "8msk", "16msk",
 #     "2gmsk", "4gmsk", "8gmsk", "16gmsk",
 #     "bpsk", "qpsk", "8psk", "16psk", "32psk", "64psk",
-#     "16qam", "32qam", "64qam", "128qam_cross", "256qam",
+#     "16qam", "32qam", "64qam", "128qam_cross", "256qam", 
 #     "ofdm-64", "ofdm-72", "ofdm-128", "ofdm-256", "ofdm-300", "ofdm-512", "ofdm-1024",
 #     "fm", "am-dsb-sc", "am-dsb", "am-lsb", "am-usb", "tone",
 # ]
